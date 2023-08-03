@@ -1,7 +1,5 @@
 # Bundled Software Development Kit
 
-[![PyPI version](https://badge.fury.io/py/bsdk.svg)](https://badge.fury.io/py/bsdk)
-
 ## Overview
 
 The `bsdk` (Bundled Software Development Kit) is a comprehensive Python package that simplifies software development by bundling together a collection of essential libraries and tools. It is designed to accelerate your development process, making it easier to build, test, and deploy your applications.
